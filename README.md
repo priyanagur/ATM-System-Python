@@ -114,7 +114,7 @@ Convert application to .exe
 👩‍💻 Author
 Priya Nagur
 B.Tech (CSE)
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/priyanagur
 
 ⭐ Acknowledgement
 This project was developed for academic and learning purposes to understand GUI development and database integration using Python.
